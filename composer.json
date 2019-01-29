@@ -26,7 +26,7 @@
     "type": "library",
     "require": {
         "pear/pear_exception": "*",
-        "openpsa/quickform": "*"
+        "pear/html_quickform": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
